@@ -1,0 +1,7 @@
+Asset: Chinese-lantern.svg
+Source page: https://commons.wikimedia.org/wiki/File:Chinese-lantern.svg
+Downloaded via: https://commons.wikimedia.org/wiki/Special:Redirect/file/Chinese-lantern.svg
+Original source: https://openclipart.org/detail/132901/chinese-lantern
+Author: gnokii at openclipart.org
+License: CC0 1.0 Universal Public Domain Dedication / public domain, as listed on Wikimedia Commons.
+Notes: Used as the local lantern sprite base for the Lunar Dragon demo.

@@ -1,0 +1,5 @@
+Asset: Dragon from Chinese Dragon Banner.svg
+Source: https://commons.wikimedia.org/wiki/File:Dragon_from_Chinese_Dragon_Banner.svg
+Downloaded via: https://commons.wikimedia.org/wiki/Special:Redirect/file/Dragon_from_Chinese_Dragon_Banner.svg
+License: CC0 1.0 Universal Public Domain Dedication / public domain, as listed on the Wikimedia Commons file page.
+Notes: Used as the local side-view dragon silhouette base for the Lunar Dragon demo.

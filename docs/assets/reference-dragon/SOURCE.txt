@@ -1,0 +1,6 @@
+Asset: Dragon SVG animation reference
+Local source folder: Dragon-Animation-Website-main
+Original credited artwork: Dragon by GifHaas on DeviantArt
+Original source URL: https://www.deviantart.com/gifhaas/art/Dragon-8681899
+Reference implementation note: The local reference HTML credits the artwork and states it was ported from Flash.
+Usage note: User stated this asset is free to use with credit. Used here as a recolored lunar dragon SVG layer.

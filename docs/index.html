@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="An interactive Chinese New Year dragon rendered with Three.js."
+    />
+    <title>Neon Cursor Dragon</title>
+    <script type="module" crossorigin src="./assets/index-Bvrt0mjU.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BIqkew5g.css">
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="scene" aria-label="Interactive Lunar Dragon scene"></canvas>
+      <svg id="referenceDragon" class="reference-dragon" aria-hidden="true" focusable="false"></svg>
+
+      <header class="brand" aria-label="Lunar Dragon">
+        <span class="brand__seal" aria-hidden="true">福</span>
+        <span class="brand__text">Neon Dragon</span>
+      </header>
+
+      <a class="asset-credit" href="https://www.deviantart.com/gifhaas/art/Dragon-8681899" target="_blank" rel="noreferrer">Dragon art: GifHaas</a>
+
+      <div class="controls" aria-label="Scene controls">
+        <button class="icon-button" id="motionToggle" type="button" aria-label="Pause motion">
+          <span class="pause-icon" aria-hidden="true"><span></span><span></span></span>
+        </button>
+        <button class="icon-button" id="resetView" type="button" aria-label="Reset dragon">
+          <span class="reset-icon" aria-hidden="true"></span>
+        </button>
+      </div>
+    </div>
+  </body>
+</html>
