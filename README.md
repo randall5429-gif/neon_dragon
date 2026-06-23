@@ -83,16 +83,11 @@ After pushing, GitHub will publish the site from `docs/index.html`.
 - Dragon artwork reference: **Dragon by GifHaas** on DeviantArt  
   https://www.deviantart.com/gifhaas/art/Dragon-8681899
 
-- Lantern SVG: **Chinese-lantern.svg** from Wikimedia Commons / Open Clip Art Library  
-  https://commons.wikimedia.org/wiki/File:Chinese-lantern.svg
-
 Asset source notes are included in:
 
 ```text
 public/assets/reference-dragon/SOURCE.txt
-public/assets/lantern/SOURCE.txt
 docs/assets/reference-dragon/SOURCE.txt
-docs/assets/lantern/SOURCE.txt
 ```
 
 ## Notes
